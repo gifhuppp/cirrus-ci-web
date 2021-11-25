@@ -30,7 +30,7 @@
     "classnames": "^2.2.6",
     "clipboard-copy": "^4.0.1",
     "google-protobuf": "^3.17.3",
-    "graphiql": "^1.4.0",
+    "graphiql": "^1.4.7",
     "graphql": "^15.4.0",
     "graphql-relay": "^0.6.0",
     "js-base64": "^3.6.0",
